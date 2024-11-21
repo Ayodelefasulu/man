@@ -89,7 +89,7 @@ def post_share(request, post_id):
         if form.is_valid():
             # form field passed validation
             cd = form.cleaned_data
-            post_url = request.build_absolute_url(
+            post_url = request.build_absolute_uri(
                 post.get_absolute_url()
             )
             subject = (
@@ -103,10 +103,10 @@ def post_share(request, post_id):
             send_mail(
                 subject=subject,
                 message=message,
-                from_mail=None,
+                from_email=None,
                 recipient_list=[cd['to']]
             )
             sent = True
     else:
         form = EmailPostForm()
-    return render(request, 'blog/post/share.html', {'post': post, 'form': form})
+    return render(request, 'blog/post/share.html', {'post': post, 'form': form, 'sent': sent})
