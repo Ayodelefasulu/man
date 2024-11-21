@@ -12,6 +12,7 @@ from .forms import EmailPostForm
 
 from .models import Post
 
+
 # Create your views here.
 # Class-based view
 class PostListView(ListView):
@@ -22,6 +23,7 @@ class PostListView(ListView):
     context_object_name = 'posts'
     paginate_by = 3
     template_name = 'blog/post/list.html'
+
 
 # Function-based view
 def post_list(request): # this request parameter is required by all views
