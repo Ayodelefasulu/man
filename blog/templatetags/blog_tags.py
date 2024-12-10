@@ -15,5 +15,5 @@ def total_posts():
 @register.inclusion_tag('blog/post/latest_posts.html')
 def show_latest_posts(count=5): # The counts specifies the number of posts to display
     latest_posts = Post.published.order_by('-publish')[:count]
-    return ('latest_posts': latest_posts)
+    return {'latest_posts': latest_posts}
 
