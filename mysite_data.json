@@ -1,0 +1,1142 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-10-13T18:05:24.415Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "ayodeledaniel",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-10-13T18:06:49.085Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "life is beautify",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-10-14T03:17:52.526Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "what is django-5.1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-10-14T06:51:59.126Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "The wonder of javascript",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-10-14T07:24:08.976Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "This is nonsense",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-10-14T07:28:02.980Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "This is nonsense",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-10-14T07:31:06.570Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "This is nonsense",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-10-14T13:15:48.112Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "life is beautify",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-10-19T01:21:38.390Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "This is nonsense",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-10-19T01:21:47.941Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "The wonder of javascript",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-10-19T01:21:55.373Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "New title",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-10-19T01:23:21.977Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "flask is simple",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-11-21T10:07:41.854Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by AYODELE DANIEL FASULU on what is django-5.1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-11-21T10:09:27.072Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Comment by Tai-Sholarin University on New title",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-11-22T02:37:25.086Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "django",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"tagged item\", \"object\": \"life is beautify tagged with django\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-12-10T07:21:26.111Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "what is django-5.1",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-12-10T08:21:28.001Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "The wonder of javascript",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-12-10T08:22:38.392Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "flask is simple",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-12-11T02:30:21.437Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "django administration",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-12-11T02:32:44.169Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-12-11T02:36:17.580Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-12-11T03:03:00.416Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$gHWOhWidqWHKfTf44LjoMN$jrDBvGqm9e+5CFDoLwu1wXzVpSSWAfXS2iz3/RYyP98=",
+    "last_login": "2024-12-11T16:27:06.436Z",
+    "is_superuser": true,
+    "username": "root",
+    "first_name": "",
+    "last_name": "",
+    "email": "fasuluayodele@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-10-13T17:49:14.591Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$fAgl69WLWbceKDQqF6TDhp$Aix63Aj57/sMDb2NrWhku/nwhqCKmWScLcNDW3DTR6s=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "ayodeledaniel",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-10-13T18:05:22.837Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 3,
+  "fields": {
+    "password": "",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "user2",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2024-10-14T04:45:16.166Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "34ko0ia1izgkgyrnxfpfvfaehmwrbv9e",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllax581JT1nsLzeBQeQI8VJFXF3iJQC2jczb1Mpr0tNa5c5jazOCtTpd6NcntJ2wI_c7pMuU1vmkfSu6IN2fZ1YXpfD_TuouddvHSj4DGQ9GYYSyXlABOcQjCELMPjoOVvrwGFAcoCRrQQWg3KTAdX7A7RgNsY:1tKu62:HLkLTJ6C2LAn8eoOoEHnrrJg0mSbi2RhBnxzTBTdf54",
+    "expire_date": "2024-12-24T06:51:50.571Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "4fq7st3o9ln1cqsjwmpxjwmua58yilaq",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllax581JT1nsLzeBQeQI8VJFXF3iJQC2jczb1Mpr0tNa5c5jazOCtTpd6NcntJ2wI_c7pMuU1vmkfSu6IN2fZ1YXpfD_TuouddvHSj4DGQ9GYYSyXlABOcQjCELMPjoOVvrwGFAcoCRrQQWg3KTAdX7A7RgNsY:1tLPYI:dmN0d5PnBAkVRmdHZ_lNFJ68soAzsqhAYp16tt_BAyE",
+    "expire_date": "2024-12-25T16:27:06.673Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "6mf93zzyb4088052yarfp24mgx3k7p2m",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllax581JT1nsLzeBQeQI8VJFXF3iJQC2jczb1Mpr0tNa5c5jazOCtTpd6NcntJ2wI_c7pMuU1vmkfSu6IN2fZ1YXpfD_TuouddvHSj4DGQ9GYYSyXlABOcQjCELMPjoOVvrwGFAcoCRrQQWg3KTAdX7A7RgNsY:1tDxQg:PAi5KvBoyfFPgxcZJpEGPZRBL2cLGJT9EoE-x7sUQ1g",
+    "expire_date": "2024-12-05T03:00:26.753Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "kooq7vn07p9l4h7qbktwgz563uanspf7",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllax581JT1nsLzeBQeQI8VJFXF3iJQC2jczb1Mpr0tNa5c5jazOCtTpd6NcntJ2wI_c7pMuU1vmkfSu6IN2fZ1YXpfD_TuouddvHSj4DGQ9GYYSyXlABOcQjCELMPjoOVvrwGFAcoCRrQQWg3KTAdX7A7RgNsY:1t02kH:CuxojNwUjX_EfPWmq1pUWBy9yUPkMiXmU04k5gsoI44",
+    "expire_date": "2024-10-27T17:51:09.115Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "upu96ur9erg72i2whcvonu2g7l1hglvz",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGllax581JT1nsLzeBQeQI8VJFXF3iJQC2jczb1Mpr0tNa5c5jazOCtTpd6NcntJ2wI_c7pMuU1vmkfSu6IN2fZ1YXpfD_TuouddvHSj4DGQ9GYYSyXlABOcQjCELMPjoOVvrwGFAcoCRrQQWg3KTAdX7A7RgNsY:1t3EnF:I-ZRVUwvE5IuS7JbIYODdFLAwS_WQDT7Oakm5HSATx8",
+    "expire_date": "2024-11-05T13:19:25.493Z"
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 11,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "life is beautify",
+    "slug": "life-is-beautify",
+    "author": 2,
+    "body": "Creating a superuser\r\nFirst, you will need to create a user to manage the administration site. Run the following command:\r\npython manage.py createsuperuser",
+    "publish": "2024-10-13T18:03:29Z",
+    "created": "2024-10-13T18:06:49.014Z",
+    "updated": "2024-10-14T13:15:47.916Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "what is django-5.1",
+    "slug": "what-is-django-51",
+    "author": 1,
+    "body": "Django is a python web framework used for developing scalable, maintainable, reliable, web applications very quickly",
+    "publish": "2024-10-14T03:15:28Z",
+    "created": "2024-10-14T03:17:52.493Z",
+    "updated": "2024-12-10T07:21:26.040Z",
+    "status": "DF"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "New title",
+    "slug": "another-post",
+    "author": 1,
+    "body": "Post body.",
+    "publish": "2024-10-14T04:36:46Z",
+    "created": "2024-10-14T04:37:09.586Z",
+    "updated": "2024-10-19T01:21:55.370Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "The wonder of javascript",
+    "slug": "the-wonder-of-javascript",
+    "author": 3,
+    "body": "JavaScript is a wonderful programming language used by many developers for building websites and mobile apps",
+    "publish": "2024-10-14T06:49:48Z",
+    "created": "2024-10-14T06:51:58.959Z",
+    "updated": "2024-12-10T08:21:27.199Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "This is nonsense",
+    "slug": "this-is-nonsense",
+    "author": 3,
+    "body": "nonsense nonsense nonsense nonsense nonsense nonsense nonsense nonsense nonsense",
+    "publish": "2024-10-14T07:27:58Z",
+    "created": "2024-10-14T07:28:02.979Z",
+    "updated": "2024-10-19T01:21:38.384Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "flask is simple",
+    "slug": "flask-is-simple",
+    "author": 1,
+    "body": "flask is a lightweight python web framework use for building web applications. It is lighter than django",
+    "publish": "2024-10-19T01:22:05Z",
+    "created": "2024-10-19T01:23:21.975Z",
+    "updated": "2024-12-10T08:22:38.384Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "title": "markdown post",
+    "slug": "django-administration",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n\r\n* One\r\n* Two\r\n* Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2024-12-11T02:29:08Z",
+    "created": "2024-12-11T02:30:21.037Z",
+    "updated": "2024-12-11T02:36:17.577Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 2,
+    "name": "AYODELE DANIEL FASULU",
+    "email": "fasuluayodele@gmail.com",
+    "body": "hmmmm....",
+    "created": "2024-11-21T10:07:41.852Z",
+    "updated": "2024-11-21T10:07:41.853Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 3,
+    "name": "Tai-Sholarin University",
+    "email": "example@gmail.com",
+    "body": "okay",
+    "created": "2024-11-21T10:09:27.070Z",
+    "updated": "2024-11-21T10:09:27.070Z",
+    "active": false
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 7,
+    "name": "AYODELE DANIEL FASULU",
+    "email": "fasuluayodele@gmail.com",
+    "body": "okay",
+    "created": "2024-11-21T10:58:04.832Z",
+    "updated": "2024-11-21T10:58:04.832Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 7,
+    "name": "wew",
+    "email": "wew@gmail.com",
+    "body": "this is wew",
+    "created": "2024-12-10T06:48:38.042Z",
+    "updated": "2024-12-10T06:48:38.042Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 5,
+  "fields": {
+    "post": 7,
+    "name": "wow",
+    "email": "wow@gmail.com",
+    "body": "this is really wow",
+    "created": "2024-12-10T06:48:58.787Z",
+    "updated": "2024-12-10T06:48:58.787Z",
+    "active": true
+  }
+}
+]
