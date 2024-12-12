@@ -175,16 +175,13 @@ def post_search(request):
             ) + SearchVector('body', weight='B') #search vector class imported
             search_query = SearchQuery(query) #search query class imported
             results = (
-                """
-                Post.published.annotate(
-                    search=SearchVector('title', 'body'),
-                ).filter(search=query)
-                """
+                #Post.published.annotate(
+                    #search=SearchVector('title', 'body'),
+                #).filter(search=query)
 
                 Post.published.annotate(
-                    search=search_vector,
-                    rank=SearchRank(search_vector, search_query)
-                ).filter(rank__gte=0.3).order_by('-rank')
+                    similarity=TrigramSimilarity('title', query),
+                ).filter(similarity__gt=0.1).order_by('-similarity')
             )
 
     return render(
