@@ -10,7 +10,7 @@ from django.views.decorators.http import require_POST
 from django.core.mail import send_mail
 from .forms import EmailPostForm, CommentForm, SearchForm
 from taggit.models import Tag
-from django.contrib.postgres.search import SearchVector
+from django.contrib.postgres.search import SearchVector, SearchQuery, SearchRank
 #from django.http import Http404
 from django.db.models import Count
 from .models import Post
@@ -171,10 +171,19 @@ def post_search(request):
         form = SearchForm(request.GET)
         if form.is_valid():
             query = form.cleaned_data['query']
+            search_vector = SearchVector('title', 'body') #search vector class imported
+            search_query = SearchQuery(query) #search query class imported
             results = (
+                """
                 Post.published.annotate(
                     search=SearchVector('title', 'body'),
                 ).filter(search=query)
+                """
+
+                Post.published.annotate(
+                    search=search_vector,
+                    rank=SearchRank(search_vector, search_query)
+                ).filter(search=search_query).order_by('-rank')
             )
 
     return render(
